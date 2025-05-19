@@ -1,0 +1,5 @@
+services:
+  api:
+    image: localhost/bsides:0.0.4
+    ports:
+      8080:8080
